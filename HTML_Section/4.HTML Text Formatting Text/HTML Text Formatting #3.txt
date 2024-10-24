@@ -1,0 +1,5 @@
+
+HTML  Text Formatting tags --->
+
+They are tags that are used to style and format text to make it more readable and visually.
+and these tags can changes the appearance of the text by making it BOLD , ITALIC , UNDERLINE .

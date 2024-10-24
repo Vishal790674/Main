@@ -1,0 +1,7 @@
+HTML Tags ?
+
+HTML Tag is a code element that defines the structure and content of the web pages.
+And Tags are used to create elements such as Heading , paragraphs , Links , Images and so much more on web page.
+
+Each HTML Tag consits of a name enclosed in as angle bracket , and most
+ HTML tags come in pairs with  opening tag and closing tag.
