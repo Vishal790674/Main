@@ -1,0 +1,12 @@
+
+A table is structured way to display data in row and column similar to spreadsheets. they are used to organize data and present information in a clear and readable format.
+
+An HTML table is used to display data in a structured way, arranged in rows and columns, much like a spreadsheet. I'll guide you through the basics step by step.
+
+Step 1: Table Structure
+An HTML table consists of the following basic elements:
+
+<table>: This is the container for the entire table.
+<tr> (Table Row): Defines a row in the table.
+<th> (Table Header): Defines a header cell in a table (bold and centered by default).
+<td> (Table Data): Defines a standard cell in a table (normal data).

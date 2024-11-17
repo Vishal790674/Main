@@ -1,0 +1,7 @@
+
+Q.- What is Forms ?
+
+Forms are used to collect user input or data and then submit to a server for processing.
+and because of forms, we can create interactive and dynamic web applications where users can enter  data such as logging in credentials , search queries , feedback  and so much more.
+
+ <!-- action method  : Means going to take the data the user is going to put in into the server.-->
